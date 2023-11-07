@@ -1,0 +1,8 @@
+{
+    "kafka_broker": "127.0.0.1:63531",
+    "kafka_topic": "random_topic",
+    "group_id": "consumer_group",
+    "poll_delay": 100,
+    "queue_max_time": 50,
+    "logfile": "kflog.log"
+}
